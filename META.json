@@ -1,0 +1,61 @@
+{
+  "category": "blockchain",
+  "created_date": "2025-09-15T22:48:59.200182",
+  "default_ports": [
+    80,
+    443,
+    30333
+  ],
+  "dependencies": [],
+  "description": "substrate is a free and open-source blockchain framework. Parity Substrate provides framework for building blockchains",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/blockchain/substrate",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/blockchain/substrate",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.200210",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "substrate",
+  "repository_url": "https://github.com/howtomgr/substrate",
+  "spec_version": "2.0",
+  "subcategory": "blockchain",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "blockchain",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "substrate Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/blockchain/substrate"
+}
